@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository in github
+
+Hi Humans!
+
+Trina here, I like brewing beer on the weekends and drinking wine during the week.
